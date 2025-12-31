@@ -5,12 +5,11 @@ import { motion } from "framer-motion";
 import { Heart, MoveRight } from "lucide-react";
 
 const compliments = [
-  "Nii oru thaai kelavi..👩‍🦳",
-  "Paaka tha soft aana nii oru bajari..🤪",
-  "mm, mmok, seri ok, bye, mm seri...😂",
-  "Madharasi rukmani..🥰",
-  "VIP 2 kajol...🤣",
-  "last one nalatha soluvenu nenachiya...maate..🤣",
+  "Epavum nii tha paati...❤️",
+  "BestFriend(Thozhi)..🩵",
+  "mmmmmmmmmmmmmmmmmmmmmmmmmm...😂",
+  "Good Gurl...Brilliant  gurl",
+  "Ithula inaiku nalathatha soliruke paati",
 ];
 
 function Card({ text, isOpen, onClick }) {
